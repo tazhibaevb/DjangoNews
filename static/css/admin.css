@@ -1,0 +1,14 @@
+h1{
+  color: #000;
+}
+.module h2, .module caption, .inline-group h2{
+  background: #aabbdd;
+  color: #000;
+  height: 40px;
+}
+a.section:link{
+  color: #000;
+}
+a:link{
+  color: #000;
+}
